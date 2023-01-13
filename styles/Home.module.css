@@ -109,6 +109,10 @@
   position: relative;
 }
 
+.link {
+  color: blue;
+}
+
 .thirteen {
   display: flex;
   justify-content: center;
