@@ -36,20 +36,29 @@ export default function Home() {
             Furthermore, the skills that I possess at the moment are still limited and I may not contribute directly to the success of the
             company but I am willing to learn and improve. In addition I am willing to dedicate myself to the work that will be given to me so 
             that next year I can be a suitable candidate for full time employment at SovTech. In addition to my technical skills, I am an effecient
-            team worker and I have good communication skills. 
+            team worker and I have good communication skills. I have worked on a few projects independently and with team members. Working alone has boosted
+            my confidence and has enabled me to have the ability to understand concepts individually and this has made me to be a self-driven person. Working
+            with people has made me appreciate the importance of team work and good communication skills.
           </p>
           <br></br>
           <h2>Previous Projects</h2>
               <br></br>
               <p><strong>1. Web Scraping System for Big Data Applications: </strong>This was my final year project. We had to create a web scraping system that 
-                consists of two components; a web scraper and a machine learning algorithm to analyse the scraped data. This system was developed using  Link:
+                consists of two components; a web scraper and a machine learning algorithm to analyse the scraped data. This system was developed using Python. Scrapy, which
+                is a web scraping framework was used to extract data from a cryptocurrency website. Then a recurrent neural network was used to analyse the data. Once all the data was
+                scraped and analysed, it was stored in a Microsoft SQL Server (MSSQL) database hosted on Microsoft Azure. The Python Django framework was used to create the front-end and SQLite was used to stored
+                user information. The system was implemented by me and another classmate who was my partner. Link to code:
                 <a  href="https://github.com/clinton724/ELEN4012-Web_Srapping" className={styles.link} target="_blank"><u>https://github.com/clinton724/ELEN4012-Web_Srapping</u></a>
               </p>
               <br></br>
               <p><strong>2. Small React app: </strong>This is a small web app where I was introducing myself to react. It is a simple app that consists of a signup page
-              and validates user information before signing in and hashes the password. Link: <a href="https://github.com/clinton724/Software-webApp" className={styles.link} target="_blank"> <u>https://github.com/clinton724/Software-webApp</u></a></p>
+              and validates user information before signing in and hashes the password. This web application was created using React and a
+              MSSQL database hosted locally to store data. The app was implemented by myself alone. Link to code: <a href="https://github.com/clinton724/Software-webApp" className={styles.link} target="_blank"> <u>https://github.com/clinton724/Software-webApp</u></a></p>
               <br></br>
-              <p><strong>3. Learning Management System: </strong>This was a 4th year software development project that was introducing web development. Link: <a href="https://drive.google.com/drive/folders/1RODp-KFcb73IX4iQ5xoN0QAO6wRZseZZ?usp=share_link" className={styles.link} target="_blank"> <u>https://drive.google.com/drive/folders/1RODp-KFcb73IX4iQ5xoN0QAO6wRZseZZ?usp=share_link</u></a></p>
+              <p><strong>3. Learning Management System: </strong>This was a 4th year software development project that was introducing web development. The web app was created using JavaScript and Node. Furthermore, we were not 
+              allowed to use any framework like React or Angular. Again a MSSQL database was used to store user information. Tests were done using the jest 
+              framework and were automated using Travis. The system was implemented by myself and other 4 members over a period of 4 weeks. We had to submit weekly sprints and each team member had to have at least 2 user stories
+              per week. Link to code: <a href="https://drive.google.com/drive/folders/1RODp-KFcb73IX4iQ5xoN0QAO6wRZseZZ?usp=share_link" className={styles.link} target="_blank"> <u>https://drive.google.com/drive/folders/1RODp-KFcb73IX4iQ5xoN0QAO6wRZseZZ?usp=share_link</u></a></p>
           <br></br>
           <h2>Recommendations</h2>
           <br></br>
